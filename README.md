@@ -33,7 +33,8 @@ Detect and analyze fraudulent patterns like multiple payments, COD abuse, and su
 Build Databricks AI Dashboards to visualize operational insights.
 
 # 3. Architecture Diagram
-![Architecture](Pics/Architecture_of_project.png)
+![Architecture](image
+/Architecture_of_project - Copy.png)
 
 # 4. Tech Stack
 
