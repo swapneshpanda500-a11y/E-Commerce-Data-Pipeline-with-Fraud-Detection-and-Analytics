@@ -34,7 +34,7 @@ Build Databricks AI Dashboards to visualize operational insights.
 
 # 3. Architecture Diagram
 ![Architecture](image
-/Architecture_of_project - Copy.png)
+/Architecture_of_project%20-%20Copy.png)
 
 # 4. Tech Stack
 
